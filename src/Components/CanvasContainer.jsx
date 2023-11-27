@@ -72,7 +72,7 @@ function Backdrop() {
       temporal
       frames={60}
       alphaTest={1}
-      scale={10}
+      scale={5}
       rotation={[Math.PI / 2, 0, 0]}
       position={[0, 0, -0.14]}>
       <RandomizedLight
